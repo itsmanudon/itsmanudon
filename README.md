@@ -9,11 +9,14 @@ Currently building and experimenting with Docker, Kubernetes, agentic AI systems
 ### 🚀 [cloud-native-labs](https://github.com/itsmanudon/cloud-native-labs)
 Hands-on experiments with Docker, Kubernetes, and modern DevOps tooling to understand cloud-native infrastructure.
 
-### 📊 [algo-trading-analysis](https://github.com/itsmanudon/algo-trading-bot)
+### 📊 [algo-trading-analysis](https://github.com/itsmanudon/algo-trading-analysis)
 Exploring concepts behind algorithmic and high-frequency trading systems through data analysis and experimentation.
 
 ### 📈 [StockViz – Market Analysis & Visualization Platform (Semester Project)](https://github.com/itsmanudon/Sem-2-Project)
 Full-stack academic project focused on financial data visualization and analysis.
+
+### 📚 [GRE Words App](https://github.com/itsmanudon/GRE-words-app)
+A comprehensive GRE vocabulary learning application with a MySQL backend, AI-powered chat, file change detection, and manual word management features.
 
 ### 🏢 Internal Business Systems
 Building and maintaining operational software including payroll tools, automation systems, and internal dashboards.
