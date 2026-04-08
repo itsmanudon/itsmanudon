@@ -18,6 +18,9 @@ Full-stack academic project focused on financial data visualization and analysis
 ### 📚 [GRE Words App](https://github.com/itsmanudon/GRE-words-app)
 A comprehensive GRE vocabulary learning application with a MySQL backend, AI-powered chat, file change detection, and manual word management features.
 
+### 🤖 [chatbot-app](https://github.com/itsmanudon/chatbot-app)
+Lightweight conversational AI playground for testing multi-turn agent workflows, tool integrations, and streaming chat UX.
+
 ### 🏢 Internal Business Systems
 Building and maintaining operational software including payroll tools, automation systems, and internal dashboards.
 
