@@ -6,6 +6,9 @@ Currently building and experimenting with Docker, Kubernetes, agentic AI systems
 
 ## 🏗️ What I'm Building
 
+### 🍽️ Sprint Serve _(private)_
+A multi-tenant restaurant platform where guests order table-side by scanning a QR code — no app, no aggregator. Three coordinated services: an Express/Socket.IO API with OTP auth and a strict order state machine, a Next.js admin dashboard with a live Kitchen Display System, and an offline-capable guest PWA. Features dynamic Redis-cached RBAC, real-time order flow, and Tally GST + Porter delivery integrations. Built with TypeScript, Express, Next.js, Prisma, PostgreSQL, Redis, Socket.IO, and BullMQ.
+
 ### 🚀 [cloud-native-labs](https://github.com/itsmanudon/cloud-native-labs)
 Hands-on experiments with Docker, Kubernetes, and modern DevOps tooling to understand cloud-native infrastructure.
 
@@ -20,6 +23,9 @@ A comprehensive GRE vocabulary learning application with a MySQL backend, AI-pow
 
 ### 🤖 [chatbot-app](https://github.com/itsmanudon/chatbot-app)
 Lightweight conversational AI playground for testing multi-turn agent workflows, tool integrations, and streaming chat UX.
+
+### 🔍 [AI Code Review Bot](https://github.com/itsmanudon/ai-code-review-bot)
+A GitHub App that auto-reviews pull requests with Claude across security, performance, and maintainability. Built with NestJS, BullMQ, Redis, and PostgreSQL.
 
 ### 🏢 Internal Business Systems
 Building and maintaining operational software including payroll tools, automation systems, and internal dashboards.
